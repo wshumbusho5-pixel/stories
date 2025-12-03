@@ -1,0 +1,16 @@
+# Stories Repository
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Drafts (not ready to publish)
+drafts/
+*.draft.md
